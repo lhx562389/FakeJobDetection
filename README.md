@@ -5,7 +5,7 @@ This project aims to detect fraudulent job postings using **Exploratory Data Ana
 
 The dataset is highly imbalanced, with far more legitimate jobs compared to fraudulent ones, as shown below:
 
-![Fraud vs Non-Fraud Count](Screenshot 2025-09-17 225023.png)
+![Fraud vs Non-Fraud Count](fraudcount.png)
 
 ---
 
